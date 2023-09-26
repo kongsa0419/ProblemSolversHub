@@ -58,3 +58,4 @@
 - Day-3 Baekjoon10775  
 - Day-4 Baekjoon30046 
 - Day-5 Baekjoon1557
+- Day-6 Baekjoon1139
