@@ -52,9 +52,10 @@
 
 
 ## 목차 🔎
-- Day-1 Baekjoon4963  
-- Day-2 Baekjoon17204    
-- Day-3 Baekjoon10775  
-- Day-4 Baekjoon30046 
-- Day-5 Baekjoon1557
-- Day-6 Baekjoon1139
+- week 1
+    - Baekjoon4963  
+    - Baekjoon17204    
+    - Baekjoon10775  
+    - Baekjoon30046 
+    - Baekjoon1557
+    - Baekjoon1139
