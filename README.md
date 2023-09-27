@@ -25,7 +25,6 @@
     - branch 확인
     ```
     git branch
-    +-
     ```
     - branch 생성
     ```
