@@ -1,5 +1,5 @@
 def main() :
-    # 양의 정수 n, m은 띄어쓰기로 구분
+    # 양의 정수 patty(패티), cheese(치즈)은 띄어쓰기로 구분
     patty, cheese = map(int, input().split())
     
     burger_size = make_burger(patty, cheese)
