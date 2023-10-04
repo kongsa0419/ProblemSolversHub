@@ -1,10 +1,10 @@
 import sys
 
 def main() :
-    # 강의실 수, 약속 수 입력받음
+    # 강의실 수, 예약 수 입력받음
     classes, requests = map(int, input().split())
     
-    # 약속 명단을 차례대로 입력
+    # 예약 명단을 차례대로 입력
     request_lists = []
     for i in range(requests) :
         request_lists.append(list(map(int,sys.stdin.readline().split())))
