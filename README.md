@@ -5,7 +5,7 @@
 - 장기환 (C++, Java)
 - 이세희 (Java)
 - 이승준 (Javascript, Python)
-- 차주원 (Python)
+- 이도형 (Python)
 
 ## 목표💡
 
