@@ -64,3 +64,22 @@
     - Baekjoon1557
     - Baekjoon1139
     - Baekjoon30189
+- week 2
+    - Baekjoon30017
+    - Baekjoon30018
+    - Baekjoon30019
+    - Baekjoon30020
+    - Baekjoon30021
+- week3
+    - Baekjoon15953
+    - Baekjoon15954
+    - Baekjoon15955
+    - Baekjoon15956
+    - Baekjoon15957
+    - Baekjoon15958
+- week4
+    - Baekjoon30022
+    - Baekjoon30023
+    - Baekjoon30030
+    - Baekjoon30031
+    - Baekjoon30032
