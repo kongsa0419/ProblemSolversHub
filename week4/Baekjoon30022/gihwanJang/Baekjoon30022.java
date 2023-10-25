@@ -56,7 +56,6 @@ public class Baekjoon30022 {
             prices[i].p = Integer.parseInt(st.nextToken());
             prices[i].q = Integer.parseInt(st.nextToken());
         }
-
         System.out.println(problem.solve(n, a, b, prices));
     }
 }
