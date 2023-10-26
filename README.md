@@ -56,36 +56,41 @@
 
 
 ## 목차 🔎
-- week 1
-    - Baekjoon4963  
-    - Baekjoon17204    
-    - Baekjoon10775  
-    - Baekjoon30046 
-    - Baekjoon1557
-    - Baekjoon1139
-    - Baekjoon30189
-- week 2
-    - Baekjoon30017
-    - Baekjoon30018
-    - Baekjoon30019
-    - Baekjoon30020
-    - Baekjoon30021
-- week3
-    - Baekjoon15953
-    - Baekjoon15954
-    - Baekjoon15955
-    - Baekjoon15956
-    - Baekjoon15957
-    - Baekjoon15958
-- week4
-    - Baekjoon30022
-    - Baekjoon30023
-    - Baekjoon30030
-    - Baekjoon30031
-    - Baekjoon30032
-- week5
-    - Baekjoon1377
-    - Baekjoon11286
-    - Baekjoon14503
-    - Baekjoon20631
-    - Programmers 구명보트
+<details> <summary>week 1</summary>
+    - Baekjoon4963<br>  
+    - Baekjoon17204<br>  
+    - Baekjoon10775<br>  
+    - Baekjoon30046<br>  
+    - Baekjoon1557<br>  
+    - Baekjoon1139<br>  
+    - Baekjoon30189<br>  
+</details>
+<details> <summary>week 2</summary>
+    - Baekjoon30017<br> 
+    - Baekjoon30018<br> 
+    - Baekjoon30019<br> 
+    - Baekjoon30020<br> 
+    - Baekjoon30021<br> 
+</details>
+<details> <summary>week 3</summary>
+    - Baekjoon15953<br> 
+    - Baekjoon15954<br> 
+    - Baekjoon15955<br> 
+    - Baekjoon15956<br> 
+    - Baekjoon15957<br> 
+    - Baekjoon15958<br> 
+</details>
+<details> <summary>week 4</summary>
+    - Baekjoon30022<br> 
+    - Baekjoon30023<br> 
+    - Baekjoon30030<br> 
+    - Baekjoon30031<br> 
+    - Baekjoon30032<br> 
+</details>
+<details> <summary>week 5</summary>
+    - Baekjoon1377<br> 
+    - Baekjoon11286<br> 
+    - Baekjoon14503<br> 
+    - Baekjoon20631<br> 
+    - Programmers 구명보트<br> 
+</details>
