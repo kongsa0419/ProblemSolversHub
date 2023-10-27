@@ -2,10 +2,30 @@
 
 ## 참가인원 🙋‍♂️
 
-- 장기환 (C++, Java)
-- 이세희 (Java)
-- 이승준 (Javascript, Python)
-- 이도형 (Python)
+<table>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/gihwanJang"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/90659997?s=96&v=4"/></a>
+            <br />
+            <a href="https://github.com/gihwanJang">gihwanJang</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/2-say"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/91319157?v=4"/></a>
+            <br />
+            <a href="https://github.com/2-say">seheeLee</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/1eeSJ"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/91321632?s=80&v=4"/></a>
+            <br />
+            <a href="https://github.com/1eeSJ">seungjunLee</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/leedohyung28"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/91038179?s=30&v=4"/></a>
+            <br />
+            <a href="https://github.com/leedohyung28">hohyungLee</a>
+        </td>
+    </tr>
+</table>
 
 ## 목표💡
 
@@ -56,30 +76,41 @@
 
 
 ## 목차 🔎
-- week 1
-    - Baekjoon4963  
-    - Baekjoon17204    
-    - Baekjoon10775  
-    - Baekjoon30046 
-    - Baekjoon1557
-    - Baekjoon1139
-    - Baekjoon30189
-- week 2
-    - Baekjoon30017
-    - Baekjoon30018
-    - Baekjoon30019
-    - Baekjoon30020
-    - Baekjoon30021
-- week3
-    - Baekjoon15953
-    - Baekjoon15954
-    - Baekjoon15955
-    - Baekjoon15956
-    - Baekjoon15957
-    - Baekjoon15958
-- week4
-    - Baekjoon30022
-    - Baekjoon30023
-    - Baekjoon30030
-    - Baekjoon30031
-    - Baekjoon30032
+<details> <summary>week 1</summary>
+    - Baekjoon4963<br>  
+    - Baekjoon17204<br>  
+    - Baekjoon10775<br>  
+    - Baekjoon30046<br>  
+    - Baekjoon1557<br>  
+    - Baekjoon1139<br>  
+    - Baekjoon30189<br>  
+</details>
+<details> <summary>week 2</summary>
+    - Baekjoon30017<br> 
+    - Baekjoon30018<br> 
+    - Baekjoon30019<br> 
+    - Baekjoon30020<br> 
+    - Baekjoon30021<br> 
+</details>
+<details> <summary>week 3</summary>
+    - Baekjoon15953<br> 
+    - Baekjoon15954<br> 
+    - Baekjoon15955<br> 
+    - Baekjoon15956<br> 
+    - Baekjoon15957<br> 
+    - Baekjoon15958<br> 
+</details>
+<details> <summary>week 4</summary>
+    - Baekjoon30022<br> 
+    - Baekjoon30023<br> 
+    - Baekjoon30030<br> 
+    - Baekjoon30031<br> 
+    - Baekjoon30032<br> 
+</details>
+<details> <summary>week 5</summary>
+    - Baekjoon1377<br> 
+    - Baekjoon11286<br> 
+    - Baekjoon14503<br> 
+    - Baekjoon20631<br> 
+    - Programmers 구명보트<br> 
+</details>
