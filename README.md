@@ -2,10 +2,30 @@
 
 ## 참가인원 🙋‍♂️
 
-- 장기환 (C++, Java)
-- 이세희 (Java)
-- 이승준 (Javascript, Python)
-- 이도형 (Python)
+<table>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/gihwanJang"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/90659997?s=96&v=4"/></a>
+            <br />
+            <a href="https://github.com/gihwanJang">gihwanJang</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/2-say"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/91319157?v=4"/></a>
+            <br />
+            <a href="https://github.com/2-say">seheeLee</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/1eeSJ"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/91321632?s=80&v=4"/></a>
+            <br />
+            <a href="https://github.com/1eeSJ">seungjunLee</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/leedohyung28"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/91038179?s=30&v=4"/></a>
+            <br />
+            <a href="https://github.com/leedohyung28">hohyungLee</a>
+        </td>
+    </tr>
+</table>
 
 ## 목표💡
 
