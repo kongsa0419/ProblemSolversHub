@@ -114,3 +114,11 @@
     - Baekjoon20631<br> 
     - Programmers 구명보트<br> 
 </details>
+<details> <summary>week 6</summary>
+    - Baekjoon28289<br> 
+    - Baekjoon28290<br> 
+    - Baekjoon28291<br> 
+    - Baekjoon28292<br> 
+    - Baekjoon28293<br> 
+    - Baekjoon28294<br> 
+</details>
