@@ -6,7 +6,7 @@ def main() :
     
     # 예약 명단을 차례대로 입력
     request_lists = []
-    for i in range(requests) :
+    for _ in range(requests) :
         request_lists.append(list(map(int,sys.stdin.readline().split())))
     
     check_request(classes, request_lists)
