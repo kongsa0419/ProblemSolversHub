@@ -77,48 +77,60 @@
 
 ## 목차 🔎
 <details> <summary>week 1</summary>
-    - Baekjoon4963<br>  
-    - Baekjoon17204<br>  
-    - Baekjoon10775<br>  
-    - Baekjoon30046<br>  
-    - Baekjoon1557<br>  
-    - Baekjoon1139<br>  
-    - Baekjoon30189<br>  
+    - Baekjoon 4963<br>  
+    - Baekjoon 17204<br>  
+    - Baekjoon 10775<br>  
+    - Baekjoon 30046<br>  
+    - Baekjoon 1557<br>  
+    - Baekjoon 1139<br>  
+    - Baekjoon 30189<br>  
 </details>
 <details> <summary>week 2</summary>
-    - Baekjoon30017<br> 
-    - Baekjoon30018<br> 
-    - Baekjoon30019<br> 
-    - Baekjoon30020<br> 
-    - Baekjoon30021<br> 
+    - Baekjoon 30017<br> 
+    - Baekjoon 30018<br> 
+    - Baekjoon 30019<br> 
+    - Baekjoon 30020<br> 
+    - Baekjoon 30021<br> 
 </details>
 <details> <summary>week 3</summary>
-    - Baekjoon15953<br> 
-    - Baekjoon15954<br> 
-    - Baekjoon15955<br> 
-    - Baekjoon15956<br> 
-    - Baekjoon15957<br> 
-    - Baekjoon15958<br> 
+    - Baekjoon 15953<br> 
+    - Baekjoon 15954<br> 
+    - Baekjoon 15955<br> 
+    - Baekjoon 15956<br> 
+    - Baekjoon 15957<br> 
+    - Baekjoon 15958<br> 
 </details>
 <details> <summary>week 4</summary>
-    - Baekjoon30022<br> 
-    - Baekjoon30023<br> 
-    - Baekjoon30030<br> 
-    - Baekjoon30031<br> 
-    - Baekjoon30032<br> 
+    - Baekjoon 30022<br> 
+    - Baekjoon 30023<br> 
+    - Baekjoon 30030<br> 
+    - Baekjoon 30031<br> 
+    - Baekjoon 30032<br> 
 </details>
 <details> <summary>week 5</summary>
-    - Baekjoon1377<br> 
-    - Baekjoon11286<br> 
-    - Baekjoon14503<br> 
-    - Baekjoon20631<br> 
+    - Baekjoon 1377<br> 
+    - Baekjoon 11286<br> 
+    - Baekjoon 14503<br> 
+    - Baekjoon 20631<br> 
     - Programmers 구명보트<br> 
 </details>
 <details> <summary>week 6</summary>
-    - Baekjoon28289<br> 
-    - Baekjoon28290<br> 
-    - Baekjoon28291<br> 
-    - Baekjoon28292<br> 
-    - Baekjoon28293<br> 
-    - Baekjoon28294<br> 
+    - Baekjoon 28289<br> 
+    - Baekjoon 28290<br> 
+    - Baekjoon 28291<br> 
+    - Baekjoon 28292<br> 
+    - Baekjoon 28293<br> 
+    - Baekjoon 28294<br> 
+</details>
+<details> <summary>week 7</summary>
+    - SWExportAcademy 1206<br> 
+    - SWExportAcademy 1244<br> 
+    - SWExportAcademy 1249<br> 
+    - SWExportAcademy 1208<br> 
+    - SWExportAcademy 3752<br> 
+    - SWExportAcademy 2819<br> 
+    - SWExportAcademy 2806<br>
+    - SWExportAcademy 2805<br>
+    - SWExportAcademy 1210<br>
+    - SWExportAcademy 1289<br>
 </details>
