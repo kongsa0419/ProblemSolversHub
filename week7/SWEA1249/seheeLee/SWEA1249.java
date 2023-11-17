@@ -1,8 +1,4 @@
-package week7.SWEA1249.seheeLee;
 
-public class SWEA1249 {
-    
-}
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
