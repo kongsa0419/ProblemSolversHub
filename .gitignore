@@ -2,6 +2,9 @@
 .vscode
 .class
 
+# incoming changes
+*.class
+
 # scott(seungjunYeo) personal
 YSJ_own/**/*
 *.exe
