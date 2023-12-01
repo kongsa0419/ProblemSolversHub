@@ -6,7 +6,8 @@
 *.class
 
 # scott(seungjunYeo) personal
-YSJ_own/**/*
+# YSJ_own/**/*
 *.exe
 **/log.txt
 AA.exe
+template.cpp
